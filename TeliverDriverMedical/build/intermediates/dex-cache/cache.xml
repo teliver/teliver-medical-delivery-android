@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/selva/.android/build-cache/b8adf07b026d444b7f2705940ab1defc9c1e0d6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="83cc3de612ceb4311a0dc6bd3cd38f739e261bd1">
+        <dex dex="/home/selva/Documents/android-projects/TeliverDriverMedical/app/build/intermediates/pre-dexed/debug/classes_139fa0e4dae0187c658035e3c0bb93213fe9a1fa.jar" />
+    </item>
+
+</items>

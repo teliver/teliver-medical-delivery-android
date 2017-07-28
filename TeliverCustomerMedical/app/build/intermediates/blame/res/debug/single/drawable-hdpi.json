@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_dettol.png",
+        "source": "/home/selva/Documents/android-projects/TeliverMedical/app/src/main/res/drawable-hdpi/ic_dettol.png"
+    },
+    {
+        "merged": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_dettol.png",
+        "source": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/res/drawable-hdpi/ic_dettol.png"
+    },
+    {
+        "merged": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_buds.png",
+        "source": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/res/drawable-hdpi/ic_buds.png"
+    },
+    {
+        "merged": "/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_buds.png",
+        "source": "/home/selva/Documents/android-projects/TeliverMedical/app/src/main/res/drawable-hdpi/ic_buds.png"
+    },
+    {
+        "merged": "/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_cotton.png",
+        "source": "/home/selva/Documents/android-projects/TeliverMedical/app/src/main/res/drawable-hdpi/ic_cotton.png"
+    },
+    {
+        "merged": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_notification_icon.png",
+        "source": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/res/drawable-hdpi/ic_notification_icon.png"
+    },
+    {
+        "merged": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_cotton.png",
+        "source": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/res/drawable-hdpi/ic_cotton.png"
+    }
+]
