@@ -4,15 +4,23 @@
         "source": "/home/selva/Documents/android-projects/TeliverMedical/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/selva/Documents/UseCaseApp/TeliverMedical/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/selva/Documents/UseCaseApp/TeliverMedical/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
-        "source": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/home/selva/Documents/UseCaseApp/TeliverMedical/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/selva/Documents/UseCaseApp/TeliverMedical/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
         "merged": "/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/home/selva/Documents/android-projects/TeliverMedical/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/selva/Documents/android-projects/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/selva/Documents/android-projects/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]

@@ -1,4 +1,7 @@
-#Thu Jul 27 13:21:46 IST 2017
-base.0=/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Sat Aug 05 16:47:55 IST 2017
+base.0=/home/selva/Documents/UseCaseApp/TeliverMedical/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cca4192065d5b04bc53660b349ae780653a1a384
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/selva/Documents/UseCaseApp/TeliverMedical/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2da5221c6269cade6ac658ea4c7c05326340427c/classes.dex
+base.1=/home/selva/Documents/UseCaseApp/TeliverMedical/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2da5221c6269cade6ac658ea4c7c05326340427c
+file.0=/home/selva/Documents/UseCaseApp/TeliverMedical/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cca4192065d5b04bc53660b349ae780653a1a384/classes.dex

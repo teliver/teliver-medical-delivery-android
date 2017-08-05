@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:2:1-34:12
+ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:2:1-34:12
 	package
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:3:5-33
-		INJECTED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
-		INJECTED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
+		INJECTED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
-		INJECTED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
+		INJECTED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
+		INJECTED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
-		INJECTED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
+		INJECTED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
+		INJECTED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:5:5-32:19
+ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:5:5-32:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/selva/.android/build-cache/967241d69f29af995cc81defe78fa3c5de32e12f/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:cardview-v7:25.3.1] /home/selva/.android/build-cache/71fea302eb24b715bab36bc350456319885b37ea/output/AndroidManifest.xml:26:5-20
 MERGED from [com.teliver.sdk:TeliverSdk:1.0.8] /home/selva/.android/build-cache/b8adf07b026d444b7f2705940ab1defc9c1e0d6b/output/AndroidManifest.xml:22:5-43:19
@@ -41,53 +41,53 @@ MERGED from [com.android.support:support-core-ui:25.3.1] /home/selva/.android/bu
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/selva/.android/build-cache/05408530109776b08ead6f6e087130759a28b5dd/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /home/selva/.android/build-cache/2ccdd0cf1ed2bc470919aecb6975bebe53e12081/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:9:9-41
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:9:9-41
 	android:supportsRtl
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:11:9-35
 	android:roundIcon
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:10:9-54
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:10:9-54
 	android:allowBackup
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:7:9-35
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:7:9-35
 	android:icon
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:8:9-43
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:8:9-43
 	android:theme
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:12:9-40
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:12:9-40
 	android:name
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:6:9-36
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:6:9-36
 activity#com.telivermedical.MainActivity
-ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:13:9-20:20
+ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:13:9-20:20
 	android:screenOrientation
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:14:13-49
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:14:13-49
 	android:name
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:13:19-47
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:13:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:18:27-74
 service#com.telivermedical.FirebaseMessaging
-ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:22:9-26:19
+ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:22:9-26:19
 	android:name
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:22:18-51
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:22:18-51
 intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:23:13-25:29
+ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:23:13-25:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:24:17-78
+ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:24:17-78
 	android:name
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:24:25-75
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:24:25-75
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:28:9-30:51
+ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:28:9-30:51
 	android:value
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:30:13-48
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:30:13-48
 	android:name
-		ADDED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:29:13-58
+		ADDED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml:29:13-58
 uses-sdk
-INJECTED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/selva/.android/build-cache/967241d69f29af995cc81defe78fa3c5de32e12f/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:cardview-v7:25.3.1] /home/selva/.android/build-cache/71fea302eb24b715bab36bc350456319885b37ea/output/AndroidManifest.xml:20:5-43
 MERGED from [com.teliver.sdk:TeliverSdk:1.0.8] /home/selva/.android/build-cache/b8adf07b026d444b7f2705940ab1defc9c1e0d6b/output/AndroidManifest.xml:7:5-9:41
@@ -118,11 +118,11 @@ MERGED from [com.android.support:support-compat:25.3.1] /home/selva/.android/bui
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] /home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
-		INJECTED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
+		INJECTED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
+		INJECTED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
-		INJECTED from /home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
+		INJECTED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
+		INJECTED from /home/selva/Documents/android-projects/TeliverCustomerMedical/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:cardview-v7:25.3.1] /home/selva/.android/build-cache/71fea302eb24b715bab36bc350456319885b37ea/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:design:25.3.1] /home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/AndroidManifest.xml:25:5-27:34

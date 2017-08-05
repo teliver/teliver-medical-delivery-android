@@ -4,15 +4,23 @@
         "source": "/home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
+        "merged": "/home/selva/Documents/android-projects/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
         "source": "/home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "merged": "/home/selva/Documents/android-projects/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
         "source": "/home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "merged": "/home/selva/Documents/UseCaseApp/TeliverMedical/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
         "source": "/home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/selva/Documents/UseCaseApp/TeliverMedical/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     }
 ]

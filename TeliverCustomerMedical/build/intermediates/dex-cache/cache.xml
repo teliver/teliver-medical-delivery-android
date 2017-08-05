@@ -3,30 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/home/selva/.android/build-cache/b8adf07b026d444b7f2705940ab1defc9c1e0d6b/output/jars/classes.jar"
+        jar="/home/selva/Documents/UseCaseApp/TeliverMedical/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="83cc3de612ceb4311a0dc6bd3cd38f739e261bd1">
-        <dex dex="/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_139fa0e4dae0187c658035e3c0bb93213fe9a1fa/classes.dex" />
+        sha1="f31869464a1833ae63aa5bf4345afc4c3de69041">
+        <dex dex="/home/selva/Documents/UseCaseApp/TeliverMedical/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2da5221c6269cade6ac658ea4c7c05326340427c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="780418ed8546c0cbd6040870a335a906fe9310e0">
-        <dex dex="/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d32382c79af4965585cdec232bcbc56eadf8a1d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/selva/Documents/UseCaseApp/TeliverMedical/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8899e71a4f6859a0d134a5447ae32fa00545b63d/classes.dex" />
+        <dex dex="/home/selva/Documents/UseCaseApp/TeliverMedical/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cca4192065d5b04bc53660b349ae780653a1a384/classes.dex" />
     </item>
 
 </items>

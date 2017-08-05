@@ -1,18 +1,26 @@
 [
     {
-        "merged": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "merged": "/home/selva/Documents/android-projects/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/selva/Documents/UseCaseApp/TeliverMedical/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/selva/Documents/android-projects/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     },
     {
         "merged": "/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
-        "merged": "/home/selva/Documents/android-projects/teliver-medical-delivery-android/TeliverCustomerMedical/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "merged": "/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
         "source": "/home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     },
     {
-        "merged": "/home/selva/Documents/android-projects/TeliverMedical/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
-        "source": "/home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+        "merged": "/home/selva/Documents/UseCaseApp/TeliverMedical/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/selva/.android/build-cache/e94c11fef72e21aef0ffefc8b95372b4cd16a8eb/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     }
 ]
